@@ -22,10 +22,9 @@ Egyetlen Fejlesztője: Aki26 GamePlay
     + Hibát jelenthetsz a fejlesztőmnek.
 
 ###ChangeLog
+
+```
 1
-
 ^ 0
-
-   ^ 0
-   
-      ^ First Release // 2020. 12. 05
+  ^ 0
+    ^ First Release // 2020. 12. 05
