@@ -27,4 +27,6 @@ Egyetlen Fejlesztője: Aki26 GamePlay
 1
 ^ 0
   ^ 0
-    ^ First Release // 2020. 12. 05
+    ^ Első Verzió // 2020. 12. 04
+  ^ 1
+    ^ Új Logó // 2020. 12. 05
