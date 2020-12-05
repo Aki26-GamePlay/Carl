@@ -20,3 +20,8 @@ Egyetlen Fejlesztője: Aki26 GamePlay
     + Ötletet adhatsz a fejlesztőmnek.
   + Hibát jelentenék.
     + Hibát jelenthetsz a fejlesztőmnek.
+###ChangeLog
++ 1
+  + 0
+    + 0
+      + First Release
