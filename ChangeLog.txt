@@ -1,4 +1,4 @@
 1
 ^ 0
    ^ 0
-      ^ First Release
+      ^ First Release // 2020. 12. 05
