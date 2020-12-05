@@ -21,7 +21,7 @@ Egyetlen Fejlesztője: Aki26 GamePlay
   + Hibát jelentenék.
     + Hibát jelenthetsz a fejlesztőmnek.
 
-###ChangeLog
+### ChangeLog
 
 ```
 1
