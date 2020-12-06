@@ -26,7 +26,15 @@ Egyetlen Fejlesztője: Aki26 GamePlay
 ```
 1
 ^ 0
-  ^ 0
-    ^ Első Verzió // 2020. 12. 04
-  ^ 1
-    ^ Új Logó // 2020. 12. 05
+  ^ 0 // 2020. 12. 04
+    ^ Első Verzió
+  ^ 1 // 2020. 12. 05
+    ^ Új Logó
+  ^ 2 // 2020. 12. 06.
+    ^ Átírva .NET Framework 4.7.2-be.
+    ^ Név mentés
+    ^ Program ablakának címe beállítva
+```
+
+##### [Futtatáshoz mindenképpen kellő Microsoft bővítmény](https://download.visualstudio.microsoft.com/download/pr/513acf37-8da2-497d-bdaa-84d6e33c1fee/eb7b010350df712c752f4ec4b615f89d/windowsdesktop-runtime-3.1.10-win-x64.exe) (Ha nem indul el a program, akkor telepítsd fel!)
+
