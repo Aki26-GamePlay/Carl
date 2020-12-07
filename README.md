@@ -15,11 +15,14 @@ Egyetlen Fejlesztője: Aki26 GamePlay
   + Itt vagy?
   + Mi az igazi neved?
   + Mikor születtél?
+  + Ki vagyok én?
 + Egyéb
   + Ötletet adnék.
     + Ötletet adhatsz a fejlesztőmnek.
   + Hibát jelentenék.
     + Hibát jelenthetsz a fejlesztőmnek.
+  + Más a nevem.
+    + Nevet változtathatsz.
 
 ### ChangeLog
 
