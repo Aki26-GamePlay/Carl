@@ -34,6 +34,10 @@ Egyetlen Fejlesztője: Aki26 GamePlay
     ^ Átírva .NET Framework 4.7.2-be.
     ^ Név mentés
     ^ Program ablakának címe beállítva
+  ^ 3 // 2020. 12. 07.
+    ^ Új "Más a nevem." parancs
+    ^ Új "Ki vagyok én?" parancs
+    ^ HibaJavítások
 ```
 
 ##### [Screenshot](https://cdn.discordapp.com/attachments/773638580567539723/785118754249637888/unknown.png) (v1.0.2, első indítás)
