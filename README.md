@@ -41,6 +41,9 @@ Egyetlen Fejlesztője: Aki26 GamePlay
     ^ Új "Más a nevem." parancs
     ^ Új "Ki vagyok én?" parancs
     ^ HibaJavítások
+  ^ 4 // 2020. 12. 13.
+    ^ HibaJavítások
+    ^ Moderátori Verzió Hozzáadva
 ```
 
 ##### [Screenshot](https://cdn.discordapp.com/attachments/773638580567539723/785118754249637888/unknown.png) (v1.0.2, első indítás)
