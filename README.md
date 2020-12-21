@@ -50,8 +50,5 @@ Egyetlen Fejlesztője: Aki26 GamePlay
   ^ Automatikus Frissítés elkészítve
 ```
 
-##### [Screenshot](https://cdn.discordapp.com/attachments/773638580567539723/785118754249637888/unknown.png) (v1.0.2, első indítás)
-##### [Screenshot](https://cdn.discordapp.com/attachments/773638580567539723/785119331267772416/unknown.png) (v1.0.2, következő indítás)
-
 ##### [Futtatáshoz mindenképpen kellő Microsoft bővítmény](https://download.visualstudio.microsoft.com/download/pr/513acf37-8da2-497d-bdaa-84d6e33c1fee/eb7b010350df712c752f4ec4b615f89d/windowsdesktop-runtime-3.1.10-win-x64.exe) (A legtöbb Windows 10 számítógépen automatikusan fel van telepítve.)
 ##### A futtatáshoz mindenképpen internetre van szükség.
