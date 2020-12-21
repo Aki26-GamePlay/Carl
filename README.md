@@ -4,7 +4,7 @@ Carl  egy ChatBot-nak indult 2020. 12. 01-én.
 
 Egyetlen Fejlesztője: Aki26 GamePlay
 
-### Jelenlegi "Parancsok":
+### Jelenlegi legjobb "Parancsok":
 + Beszélgetés
   + Hogy vagy?
   + Ki az apád?
