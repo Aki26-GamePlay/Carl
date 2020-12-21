@@ -44,6 +44,10 @@ Egyetlen Fejlesztője: Aki26 GamePlay
   ^ 4 // 2020. 12. 13.
     ^ HibaJavítások
     ^ Moderátori Verzió Hozzáadva
+^ 1
+  ^ Adatbázis elkészítve
+  ^ Előtagok frissítve
+  ^ Automatikus Frissítés elkészítve
 ```
 
 ##### [Screenshot](https://cdn.discordapp.com/attachments/773638580567539723/785118754249637888/unknown.png) (v1.0.2, első indítás)
