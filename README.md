@@ -44,10 +44,13 @@ Egyetlen Fejlesztője: Aki26 GamePlay
   ^ 4 // 2020. 12. 13.
     ^ HibaJavítások
     ^ Moderátori Verzió Hozzáadva
-^ 1
+^ 1 // 2020. 12. 21.
   ^ Adatbázis elkészítve
   ^ Előtagok frissítve
   ^ Automatikus Frissítés elkészítve
+    ^ 1 // 2020. 12. 26.
+    ^ Új "Indíts visszaszámlálást!" parancs
+    ^ HibaJavítások
 ```
 
 ##### [Futtatáshoz mindenképpen kellő Microsoft bővítmény](https://download.visualstudio.microsoft.com/download/pr/513acf37-8da2-497d-bdaa-84d6e33c1fee/eb7b010350df712c752f4ec4b615f89d/windowsdesktop-runtime-3.1.10-win-x64.exe) (A legtöbb Windows 10 számítógépen automatikusan fel van telepítve.)
