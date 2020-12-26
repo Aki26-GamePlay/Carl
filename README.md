@@ -16,6 +16,7 @@ Egyetlen Fejlesztője: Aki26 GamePlay
   + Mi az igazi neved?
   + Mikor születtél?
   + Ki vagyok én?
+  + Indíts visszaszámlálást!
 + Egyéb
   + Ötletet adnék.
     + Ötletet adhatsz a fejlesztőmnek.
