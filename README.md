@@ -44,11 +44,12 @@ Egyetlen Fejlesztője: Aki26 GamePlay
   ^ 4 // 2020. 12. 13.
     ^ HibaJavítások
     ^ Moderátori Verzió Hozzáadva
-^ 1 // 2020. 12. 21.
-  ^ Adatbázis elkészítve
-  ^ Előtagok frissítve
-  ^ Automatikus Frissítés elkészítve
-    ^ 1 // 2020. 12. 26.
+^ 1
+  ^ 0 // 2020. 12. 21.
+    ^ Adatbázis elkészítve
+    ^ Előtagok frissítve
+    ^ Automatikus Frissítés elkészítve
+  ^ 1 // 2020. 12. 26.
     ^ Új "Indíts visszaszámlálást!" parancs
     ^ HibaJavítások
 ```
