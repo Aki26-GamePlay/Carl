@@ -53,12 +53,15 @@ Egyetlen Fejlesztője: Aki26 GamePlay
   ^ 1 // 2020. 12. 26.
     ^ Új "Indíts visszaszámlálást!" parancs
     ^ HibaJavítások
-  ^ 2 // 2021.01.08
-    ^ Káromkodás szűrő
-    ^ A Moderátoroknak Discordos hitelesítés
-    ^ "Szerecc?" parancs a "Szeretsz?" alapján
-```
+  ^ 2
+    ^ 0 // 2021.01.08
+      ^ Káromkodás szűrő
+      ^ A Moderátoroknak Discordos hitelesítés
+      ^ "Szerecc?" parancs a "Szeretsz?" alapján
+    ^ 1 // 2021.01.13
+      ^ "Carl" megszólítás kezelése
+      ^ Kis- és Nagybetűk kezelése
 
 ##### [Futtatáshoz mindenképpen kellő Microsoft bővítmény](https://download.visualstudio.microsoft.com/download/pr/513acf37-8da2-497d-bdaa-84d6e33c1fee/eb7b010350df712c752f4ec4b615f89d/windowsdesktop-runtime-3.1.10-win-x64.exe) (A legtöbb Windows 10 számítógépen automatikusan fel van telepítve.)
 ##### A futtatáshoz mindenképpen internetre van szükség.
-##### Moderátornak jelentkezni a következő Discord Szerveren lehet: [Carl - Mod/Dev Verification & Mod Membership](https://discord.gg/pssNdt2eVg)
+##### Moderátornak jelentkezni a következő Discord Szerveren lehet: [Carl - Mod/Dev Hitelesítés & Jelentkezés](https://discord.gg/pssNdt2eVg)
